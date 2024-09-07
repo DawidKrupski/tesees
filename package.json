@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/tesees/",
+    "build": "vite build --base=/tesees2/",
     "preview": "vite preview"
   },
   "devDependencies": {
